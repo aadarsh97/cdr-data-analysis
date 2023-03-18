@@ -24,8 +24,8 @@ for i in range(0,a):
     time.append(tim)
     age.append(ag)
     
-input_file=   'c:\\Users\\ASTRA\\Desktop\\oldcdr.csv'
-output_file=  'c:\\Users\\ASTRA\\Desktop\\cdr\\cdrdata.csv'
+input_file=   'cdrdata.csv'
+output_file=  'enriched_data.csv'
 
 col_1 = latitude
 col_2 = longitude
